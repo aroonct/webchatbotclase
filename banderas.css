@@ -1,0 +1,58 @@
+#bisexual {
+	background: linear-gradient(
+		to bottom,
+		#d60270,
+		#d60270 40%,
+		#9a4f96 40%,
+		#9a4f96 60%,
+		#0039a9 60%,
+		#0039a9
+		);
+        height: 130px;
+}
+#lgbt {
+	background: linear-gradient(
+		to bottom,
+		#e40303,
+		#e40303 16.67%,
+		#ff8c00 16.67%,
+		#ff8c00 33.33%,
+		#ffed00 33.33%,
+		#ffed00 50%,
+		#008026 50%,
+		#008026 66.67%,
+		#004dff 66.67%,
+		#004dff 83.33%,
+		#750787 83.33%,
+		#750787
+		);
+        height: 130px;
+}
+#trans {
+	background: linear-gradient(
+		to bottom,
+		#5ccefa,
+		#5ccefa 20%,
+		#f6a8b7 20%,
+		#f6a8b7 40%,
+		#fff 40%,
+		#fff 60%,
+		#f6a8b7 60%,
+		#f6a8b7 80%,
+		#5ccefa 80%,
+		#5ccefa
+		);
+        height: 130px;
+}
+#pansexual {
+	background: linear-gradient(
+		to bottom,
+		#ff218c,
+		#ff218c 33.33%,
+		#fed800 33.33%,
+		#fed800 66.67%,
+		#21b1ff 66.67%,
+		#21b1ff
+		);
+        height: 130px;
+}
