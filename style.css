@@ -83,6 +83,7 @@ h1{
     font-size: 20px;
     font-weight: 500;
     background-color: transparent;
+    margin-bottom: 150px;
 }
 
 .footer{
@@ -94,7 +95,6 @@ h1{
     font-size: 20px;
     font-weight: 500;
     margin: 0px;
-      margin-top: 150px;
 }
 
 footer{
